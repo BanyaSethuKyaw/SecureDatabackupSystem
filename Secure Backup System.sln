@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secure Backup System", "Secure Backup System.csproj", "{476F0C89-9E90-44DF-81D7-76CC748DFA6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeReveal", "..\CodeReveal\CodeReveal.csproj", "{1F6589A0-DD79-486B-88EB-7FB714BE573A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{476F0C89-9E90-44DF-81D7-76CC748DFA6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{476F0C89-9E90-44DF-81D7-76CC748DFA6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{476F0C89-9E90-44DF-81D7-76CC748DFA6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{476F0C89-9E90-44DF-81D7-76CC748DFA6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6589A0-DD79-486B-88EB-7FB714BE573A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6589A0-DD79-486B-88EB-7FB714BE573A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6589A0-DD79-486B-88EB-7FB714BE573A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6589A0-DD79-486B-88EB-7FB714BE573A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828C940E-7B36-4E0A-82D8-9E3D1F60B451}
+	EndGlobalSection
+EndGlobal
